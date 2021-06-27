@@ -1,0 +1,8 @@
+name: Morajlab assets API action
+on: [push]
+jobs:
+  Create-API-Action:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create API JSON files
+      - run: yarn run scripts
