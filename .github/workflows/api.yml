@@ -5,4 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create API JSON files
-      - run: yarn run scripts
+        run: |
+          yarn run scripts
