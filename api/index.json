@@ -1,0 +1,45 @@
+{
+  "_id": "60d85000eea9ee6c26e2d7aa",
+  "index": 0,
+  "guid": "afdce0bf-0ca7-44c0-a4e4-3187507cf3e4",
+  "isActive": true,
+  "balance": "$2,856.81",
+  "picture": "http://placehold.it/32x32",
+  "age": 26,
+  "eyeColor": "blue",
+  "name": "Leanna Garcia",
+  "gender": "female",
+  "company": "ZILPHUR",
+  "email": "leannagarcia@zilphur.com",
+  "phone": "+1 (857) 545-3745",
+  "address": "306 Hewes Street, Troy, South Dakota, 712",
+  "about": "Eiusmod aute consectetur Lorem commodo id tempor dolore nulla proident. Eiusmod labore est consequat officia in aute labore reprehenderit fugiat sunt laborum nulla ex. Labore labore aliquip ipsum esse tempor qui ullamco minim ea ea fugiat nostrud do. Qui irure consectetur aliqua ipsum occaecat in id ad aute. Aliqua laboris et minim ipsum exercitation nostrud cupidatat pariatur esse aliquip ad tempor aute magna.\r\n",
+  "registered": "2019-07-21T03:07:02 -05:-30",
+  "latitude": 54.035155,
+  "longitude": -98.977094,
+  "tags": [
+    "dolor",
+    "excepteur",
+    "proident",
+    "pariatur",
+    "adipisicing",
+    "proident",
+    "culpa"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Malinda Hudson"
+    },
+    {
+      "id": 1,
+      "name": "Nichols Ingram"
+    },
+    {
+      "id": 2,
+      "name": "Aurelia Wiggins"
+    }
+  ],
+  "greeting": "Hello, Leanna Garcia! You have 2 unread messages.",
+  "favoriteFruit": "apple"
+}
